@@ -68,3 +68,22 @@ Caused by: java.nio.file.NoSuchFileException: /home/runner/VerticalNormalTest/Ma
 [0m2022.01.23 05:06:35 WARN  no build tool detected in workspace '/home/runner/VerticalNormalTest'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
 [0m2022.01.23 05:06:47 INFO  no build target: using presentation compiler with only scala-library: 2.12.14[0m
 [0m2022.01.23 05:07:16 INFO  no build target: using presentation compiler with only scala-library: 2.12.14[0m
+Jan 23, 2022 5:08:07 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 47
+Jan 23, 2022 5:08:08 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 49
+Jan 23, 2022 5:08:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 51
+[0m2022.01.23 05:08:12 WARN  no build target for: /home/runner/VerticalNormalTest/main.scala[0m
+Jan 23, 2022 5:08:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 57
+[0m2022.01.23 05:08:17 WARN  no build target for: /home/runner/VerticalNormalTest/main.scala[0m
+Jan 23, 2022 5:08:19 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 70
+[0m2022.01.23 05:08:19 WARN  no build target for: /home/runner/VerticalNormalTest/main.scala[0m
+Jan 23, 2022 5:08:20 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 72
+Jan 23, 2022 5:08:21 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 76
+[0m2022.01.23 05:08:22 WARN  no build target for: /home/runner/VerticalNormalTest/main.scala[0m
+[0m2022.01.23 05:08:24 WARN  no build target for: /home/runner/VerticalNormalTest/main.scala[0m
