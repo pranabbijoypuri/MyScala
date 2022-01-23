@@ -3277,3 +3277,79 @@ file%3A%2F%2F%2Fhome%2Frunner%2FVerticalNormalTest%2Fmain.scala:8: error: ) expe
 	at scala.meta.internal.pc.SemanticdbTextDocumentProvider.textDocument(SemanticdbTextDocumentProvider.scala:51)
 
 [0m2022.01.23 05:40:12 WARN  no build target for: /home/runner/VerticalNormalTest/main.scala[0m
+Jan 23, 2022 5:58:22 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 579
+[0m2022.01.23 05:58:25 WARN  no build target for: /home/runner/VerticalNormalTest/main.scala[0m
+Jan 23, 2022 5:58:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 585
+Jan 23, 2022 5:58:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 586
+[0m2022.01.23 05:58:33 WARN  no build target for: /home/runner/VerticalNormalTest/main.scala[0m
+Jan 23, 2022 5:58:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 593
+Jan 23, 2022 5:58:35 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 595
+[0m2022.01.23 05:58:36 WARN  no build target for: /home/runner/VerticalNormalTest/main.scala[0m
+Jan 23, 2022 5:58:43 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 602
+[0m2022.01.23 05:58:43 WARN  no build target for: /home/runner/VerticalNormalTest/main.scala[0m
+Jan 23, 2022 5:58:44 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 604
+Jan 23, 2022 5:58:46 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 609
+[0m2022.01.23 05:58:47 WARN  no build target for: /home/runner/VerticalNormalTest/main.scala[0m
+[0m2022.01.23 05:58:49 WARN  no build target for: /home/runner/VerticalNormalTest/main.scala[0m
+[0m2022.01.23 05:58:52 WARN  no build target for: /home/runner/VerticalNormalTest/main.scala[0m
+Jan 23, 2022 5:58:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 620
+Jan 23, 2022 5:58:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 621
+Jan 23, 2022 5:58:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 622
+Jan 23, 2022 5:58:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 624
+[0m2022.01.23 05:58:54 WARN  no build target for: /home/runner/VerticalNormalTest/main.scala[0m
+Jan 23, 2022 5:58:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 625
+Jan 23, 2022 5:58:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 628
+Jan 23, 2022 5:58:56 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 629
+Jan 23, 2022 5:58:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 630
+Jan 23, 2022 5:58:57 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 631
+[0m2022.01.23 05:59:01 WARN  no build target for: /home/runner/VerticalNormalTest/main.scala[0m
+Jan 23, 2022 5:59:03 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 638
+[0m2022.01.23 05:59:04 WARN  no build target for: /home/runner/VerticalNormalTest/main.scala[0m
+Jan 23, 2022 5:59:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 639
+Jan 23, 2022 5:59:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 647
+[0m2022.01.23 05:59:16 WARN  no build target for: /home/runner/VerticalNormalTest/main.scala[0m
+[0m2022.01.23 05:59:19 WARN  no build target for: /home/runner/VerticalNormalTest/main.scala[0m
+Jan 23, 2022 5:59:28 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 653
+[0m2022.01.23 05:59:31 WARN  no build target for: /home/runner/VerticalNormalTest/main.scala[0m
+Jan 23, 2022 5:59:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 658
+Jan 23, 2022 5:59:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 659
+[0m2022.01.23 05:59:33 WARN  no build target for: /home/runner/VerticalNormalTest/main.scala[0m
+Jan 23, 2022 5:59:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 665
+Jan 23, 2022 5:59:34 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 666
+[0m2022.01.23 05:59:35 WARN  no build target for: /home/runner/VerticalNormalTest/main.scala[0m
+[0m2022.01.23 05:59:37 WARN  no build target for: /home/runner/VerticalNormalTest/main.scala[0m
+[0m2022.01.23 05:59:39 WARN  no build target for: /home/runner/VerticalNormalTest/main.scala[0m
+Jan 23, 2022 5:59:41 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 676
+[0m2022.01.23 05:59:45 WARN  no build target for: /home/runner/VerticalNormalTest/main.scala[0m
+[0m2022.01.23 05:59:52 WARN  no build target for: /home/runner/VerticalNormalTest/main.scala[0m
+Jan 23, 2022 5:59:52 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 696
+Jan 23, 2022 5:59:54 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 699
+[0m2022.01.23 05:59:57 WARN  no build target for: /home/runner/VerticalNormalTest/main.scala[0m
